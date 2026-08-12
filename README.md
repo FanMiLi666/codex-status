@@ -2,6 +2,14 @@
 
 一个 macOS 菜单栏状态工具，用来显示 Codex 相关状态。
 
+[Download Latest Release](https://github.com/FanMiLi666/codex-status/releases/latest)
+
+## Features
+
+- 菜单栏状态显示
+- 包含状态监控脚本
+- 自带图像资源
+
 ## App
 
 - 名称：Codex Status
@@ -11,7 +19,7 @@
 
 ## 使用方式
 
-1. 下载或克隆本仓库。
+1. 从 [Releases](https://github.com/FanMiLi666/codex-status/releases/latest) 下载 zip。
 2. 将 `Codex Status.app` 拖到 `Applications` 文件夹。
 3. 双击打开应用。
 
